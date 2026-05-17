@@ -1,0 +1,414 @@
+/* ── Design tokens ───────────────────────────────────────────── */
+:root {
+  --bg:           #0d0e0f;
+  --surface:      #161819;
+  --surface-2:    #1e2022;
+  --border:       rgba(255, 255, 255, 0.07);
+  --border-hi:    rgba(255, 255, 255, 0.13);
+  --accent:       #DA291C;
+  --accent-glow:  rgba(218, 41, 28, 0.3);
+  --text:         #efefef;
+  --text-dim:     rgba(239, 239, 239, 0.55);
+  --text-muted:   rgba(239, 239, 239, 0.27);
+  --radius:       18px;
+  --radius-sm:    9px;
+  --font-mono:    'SF Mono', 'Fira Code', 'Cascadia Code', monospace;
+  --shadow:       0 6px 48px rgba(0, 0, 0, 0.4);
+}
+
+/* ── Reset ───────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+}
+html::-webkit-scrollbar { display: none; }
+
+/* ── Base ────────────────────────────────────────────────────── */
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  scrollbar-width: none;
+}
+body::-webkit-scrollbar { display: none; }
+
+/* ── Page wrapper ────────────────────────────────────────────── */
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ── Colorblind toggle ───────────────────────────────────────── */
+#colorblind-toggle {
+  position: fixed;
+  top: 16px;
+  right: 20px;
+  z-index: 200;
+}
+
+/* ── Buttons ─────────────────────────────────────────────────── */
+button {
+  background-color: var(--surface-2);
+  color: var(--text-dim);
+  border: 1px solid var(--border-hi);
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  padding: 5px 12px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background-color 0.18s, color 0.18s, border-color 0.18s;
+  white-space: nowrap;
+}
+button:hover {
+  background-color: #252829;
+  color: var(--text);
+  border-color: rgba(255, 255, 255, 0.22);
+}
+
+/* ── Selects ─────────────────────────────────────────────────── */
+select {
+  background-color: var(--surface-2);
+  color: var(--text);
+  border: 1px solid var(--border-hi);
+  font-family: system-ui, sans-serif;
+  font-size: 13px;
+  padding: 6px 14px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background-color 0.18s;
+  appearance: none;
+  -webkit-appearance: none;
+}
+select:hover { background-color: #252829; }
+
+/* ── Spacer ──────────────────────────────────────────────────── */
+.spacer { height: 14vh; }
+
+/* ── Section base ────────────────────────────────────────────── */
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+/* ── Section title ───────────────────────────────────────────── */
+.section-title {
+  font-size: clamp(20px, 2vw, 34px);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  text-align: center;
+  margin-bottom: 1.4vw;
+  color: var(--text);
+}
+
+/* ── Chart cards ─────────────────────────────────────────────── */
+.chart-card {
+  width: 82vw;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.8vw 2.2vw 1.4vw;
+  box-shadow: var(--shadow);
+  transition: transform 0.18s ease;
+}
+.chart-card:hover { transform: scale(1.015); }
+
+/* ── Dual chart layout ───────────────────────────────────────── */
+.dual-chart-row {
+  display: flex;
+  gap: 1.4vw;
+  width: 82vw;
+}
+
+.chart-card-half {
+  flex: 1;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.8vw 2.2vw 1.4vw;
+  box-shadow: var(--shadow);
+  transition: transform 0.18s ease;
+}
+.chart-card-half:hover { transform: scale(1.015); }
+
+
+.chart-btn-row {
+  display: flex;
+  gap: 8px;
+  margin-top: 0.6vw;
+}
+.chart-btn-row button {
+  font-size: 10px;
+  padding: 4px 8px;
+}
+
+/* ── Chart footer (note left, source right) ──────────────────── */
+.chart-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 1vw;
+  gap: 4vw;
+}
+
+.chart-note {
+  font-size: 12px;
+  font-family: var(--font-mono);
+  color: var(--text-muted);
+  letter-spacing: 0.03em;
+  flex: 1;
+}
+
+.chart-source {
+  font-size: 12px;
+  font-family: var(--font-mono);
+  color: var(--text-muted);
+  text-align: right;
+  letter-spacing: 0.03em;
+  white-space: nowrap;
+  text-decoration: none;
+  transition: color 0.18s;
+}
+.chart-source:hover {
+  color: var(--text-dim);
+}
+
+/* ── Prose ───────────────────────────────────────────────────── */
+.prose {
+  width: 72vw;
+  font-size: clamp(15px, 1.05vw, 18px);
+  color: var(--text-dim);
+  line-height: 1.85;
+  margin-top: 1.8vw;
+  text-align: center;
+}
+
+.dual-prose-row {
+  display: flex;
+  gap: 2vw;
+  width: 82vw;
+  margin-top: 1.6vw;
+}
+.prose-half {
+  flex: 1;
+  font-size: clamp(15px, 1.05vw, 18px);
+  color: var(--text-dim);
+  line-height: 1.85;
+}
+
+/* ── Hero ────────────────────────────────────────────────────── */
+#section-intro {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 8vh 0 6vh;
+}
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 5vw;
+  width: 82vw;
+  margin-bottom: 3.5vw;
+}
+
+.hero-image-wrap {
+  border-radius: var(--radius);
+  transition: transform 0.18s ease;
+}
+.hero-image-wrap:hover { transform: scale(1.015); }
+
+.hero-image {
+  width: 100%;
+  display: block;
+  border-radius: var(--radius);
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.65), 0 0 0 1px var(--border);
+}
+
+.hero-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.hero-tag {
+  font-size: 13px;
+  font-family: var(--font-mono);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.hero-title {
+  font-size: clamp(28px, 3.8vw, 66px);
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  line-height: 1.07;
+  color: var(--text);
+}
+
+.hero-subtitle {
+  font-size: clamp(14px, 1.1vw, 20px);
+  color: var(--text-dim);
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.hero-prose {
+  width: 82vw;
+  font-size: clamp(15px, 1.05vw, 18px);
+  color: var(--text-dim);
+  line-height: 1.9;
+  border-top: 1px solid var(--border);
+  padding-top: 2.2vw;
+}
+
+/* ── Conclusion ──────────────────────────────────────────────── */
+.conclusion {
+  min-height: 60vh;
+  justify-content: center;
+  padding: 8vh 0;
+}
+
+.conclusion-title {
+  font-size: clamp(36px, 5vw, 80px);
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  margin-bottom: 2vw;
+  color: var(--text);
+}
+
+/* ── Red Line nav ────────────────────────────────────────────── */
+#rl-nav {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 44px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+}
+
+#rl-track {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 3px;
+  background-color: rgba(218, 41, 28, 0.18);
+  z-index: -1;
+}
+
+#rl-progress {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 3px;
+  height: 0;
+  background-color: var(--accent);
+  transition: height 0.4s ease;
+  z-index: -1;
+}
+
+.rl-station {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  width: 100%;
+  cursor: pointer;
+  max-height: 25vh;
+}
+
+.rl-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: 2px solid var(--accent);
+  background-color: var(--bg);
+  flex-shrink: 0;
+  z-index: 1;
+  transition: background-color 0.25s, transform 0.25s, box-shadow 0.25s;
+}
+.rl-station.terminal .rl-dot {
+  width: 13px;
+  height: 13px;
+  border-width: 2.5px;
+}
+
+.rl-station:hover .rl-dot {
+  transform: scale(1.5);
+  box-shadow: 0 0 8px var(--accent-glow);
+}
+.rl-station.active .rl-dot {
+  background-color: var(--accent);
+  transform: scale(1.5);
+  box-shadow: 0 0 14px var(--accent-glow);
+}
+
+.rl-label {
+  position: absolute;
+  left: calc(100% + 6px);
+  font-size: 10px;
+  font-family: var(--font-mono);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.2s;
+  pointer-events: none;
+  color: var(--text-dim);
+}
+.rl-station:hover .rl-label,
+.rl-station.active .rl-label { opacity: 1; }
+
+/* ── Footnote ────────────────────────────────────────────────── */
+.footnote {
+  width: 100%;
+  text-align: center;
+  font-size: 11px;
+  font-family: var(--font-mono);
+  color: var(--text-muted);
+  padding: 2vh 0 3vh;
+  letter-spacing: 0.06em;
+}
+
+/* ── Inline note read-more button ────────────────────────────── */
+.chart-note-btn {
+  display: inline;
+  background: none;
+  border: none;
+  padding: 0;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.03em;
+  color: var(--text-dim);
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 0;
+  white-space: nowrap;
+}
+.chart-note-btn:hover {
+  background: none;
+  color: var(--text);
+  border-color: transparent;
+}
+
+/* ── Canvas ──────────────────────────────────────────────────── */
+canvas {
+  display: block;
+  width: 100% !important;
+}

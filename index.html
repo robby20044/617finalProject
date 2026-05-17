@@ -1,0 +1,204 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Next Stop for the MBTA</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <button id="colorblind-toggle">Colorblind Mode: OFF</button>
+
+  <nav id="rl-nav">
+    <div id="rl-track"></div>
+    <div id="rl-progress"></div>
+    <div class="rl-station terminal active" data-target="section-intro">
+      <div class="rl-dot"></div>
+      <span class="rl-label">Intro</span>
+    </div>
+    <div class="rl-station" data-target="section-ridership">
+      <div class="rl-dot"></div>
+      <span class="rl-label">Ridership</span>
+    </div>
+    <div class="rl-station" data-target="section-headways">
+      <div class="rl-dot"></div>
+      <span class="rl-label">Headways<br>/ Alerts</span>
+    </div>
+    <div class="rl-station" data-target="section-predictions">
+      <div class="rl-dot"></div>
+      <span class="rl-label">Predictions</span>
+    </div>
+    <div class="rl-station" data-target="section-ratings">
+      <div class="rl-dot"></div>
+      <span class="rl-label">Ratings</span>
+    </div>
+    <div class="rl-station terminal" data-target="section-conclusion">
+      <div class="rl-dot"></div>
+      <span class="rl-label">Take Away</span>
+    </div>
+  </nav>
+
+  <div class="page">
+
+    <!-- ── INTRO ──────────────────────────────────────────────── -->
+    <section id="section-intro">
+      <div class="hero-grid">
+        <div class="hero-image-wrap">
+          <img class="hero-image" src="images/redlineTrain.png" alt="Red Line Train">
+        </div>
+        <div class="hero-text">
+          <div class="hero-tag">MBTA · Subway Data Analysis · 2020 - 2026</div>
+          <h1 class="hero-title">The Next Stop<br>for the MBTA</h1>
+          <p class="hero-subtitle">Is the transportation authority improving or declining?</p>
+        </div>
+      </div>
+      <div class="hero-prose">
+        The MBTA completes hundreds of thousands of trips every week. With such high ridership,
+        delays and shutdowns can cause lots of collective time to be wasted waiting for trains or taking less efficient
+        transportation. To determine if the MBTA subway lines are improving or declining, this project
+        looks at a variety of metrics pertaining to the MBTA's Red, Orange, Blue, and Green lines.
+      </div>
+    </section>
+
+    <div class="spacer"></div>
+
+    <!-- ── RIDERSHIP ──────────────────────────────────────────── -->
+    <section id="section-ridership" class="section">
+      <h2 class="section-title">Ridership</h2>
+      <div class="chart-card">
+        <canvas id="ridership"></canvas>
+        <div class="chart-footer">
+          <span class="chart-note">Combined monthly ridership for Red, Orange, Blue, and Green lines</span>
+          <a class="chart-source" href="https://mbta-massdot.opendata.arcgis.com/" target="_blank">Source: MBTA Open Data Portal</a>
+        </div>
+      </div>
+      <p class="prose">
+        The highest ridership was seen in early 2020, at 17.5m monthly riders.
+        Since the dip down to 1.4m in 2020 due to covid, there has been an upward trend.
+        Ridership in March of 2026 is around 75% of what it was in early 2020. The major changes
+        in ridership are due to covid and can be affected by outside factors such as
+        prices of other modes of transportation, so they cannot be viewed as a direct
+        indicator of the state of the subway lines or how content riders are. Despite this,
+        looking at ridership data can help us see if there is a relationship between number of riders
+        and other metrics.
+      </p>
+    </section>
+
+    <div class="spacer"></div>
+
+    <!-- ── HEADWAYS + ALERTS ──────────────────────────────────── -->
+    <section id="section-headways" class="section">
+      <div class="dual-chart-row">
+        <div class="chart-card-half">
+          <h2 class="section-title">Average Headways</h2>
+          <canvas id="headways"></canvas>
+          <div class="chart-footer">
+            <span class="chart-note">Dashed lines represent missing data.</span>
+            <a class="chart-source" href="https://mbta-massdot.opendata.arcgis.com/" target="_blank">Source: MBTA Open Data Portal</a>
+          </div>
+          <div class="chart-btn-row">
+            <button id="headways-baseline-btn">Mode: True Comparison</button>
+            <button id="headways-view-btn">View: By Line</button>
+          </div>
+        </div>
+        <div class="chart-card-half">
+          <h2 class="section-title">Service Alerts</h2>
+          <canvas id="alerts"></canvas>
+          <div class="chart-footer">
+            <span class="chart-note">Dashed lines represent missing data</span>
+            <a class="chart-source" href="https://mbta-massdot.opendata.arcgis.com/" target="_blank">Source: MBTA Open Data Portal</a>
+          </div>
+          <div class="chart-btn-row">
+            <button id="alerts-view-btn">View: By Line</button>
+          </div>
+        </div>
+      </div>
+      <div class="dual-prose-row">
+        <p class="prose-half">
+          Headway is the time between trains. Longer headways means more time spent
+          waiting at the station for the next train. Headways peaked in December of 2022 at 10.36 minutes,
+          and have come down to 6.97 minutes; a 33% reduction.
+        </p>
+        <p class="prose-half">
+          Alerts are a time when service is affected by events such as maintenance,
+          weather, and signal issues. Effects can range from a delay by some number
+          of minutes, to multi-day service suspension. The quantity of alerts has increased
+          since late 2022 and has become more volatile since late 2024.
+        </p>
+      </div>
+    </section>
+
+    <div class="spacer"></div>
+
+    <!-- ── PREDICTIONS ────────────────────────────────────────── -->
+    <section id="section-predictions" class="section">
+      <h2 class="section-title">Prediction Accuracy</h2>
+      <div class="chart-card">
+        <canvas id="predictions"></canvas>
+        <div class="chart-footer">
+          <span class="chart-note">
+            An accurate prediction is defined as: the predicted number of seconds
+            was within a threshold of the actual number of seconds, based on the bin.<span id="predictions-note-extra" hidden> For a given bin, the passing threshold is if a vehicle arrives: 0-3 min: 60 seconds early to 60 seconds late, 3-6 min: 90 seconds early to 120 seconds late, 6-12 min: 150 seconds early to 210 seconds late, 12-30 min: 240 seconds early to 360 seconds late.</span>
+            <button class="chart-note-btn" id="predictions-note-btn">Read more</button>
+          </span>
+          <a class="chart-source" href="https://mbta-massdot.opendata.arcgis.com/" target="_blank">Source: MBTA Open Data Portal</a>
+        </div>
+        <div class="chart-btn-row">
+          <button id="predictions-view-btn">View: Volume</button>
+        </div>
+      </div>
+      <p class="prose">
+        The number of predictions and accurate predictions have varied over time,
+        but the percent of predictions that were accurate has stayed around 80%
+        with a very slight downward decline.
+      </p>
+    </section>
+
+    <div class="spacer"></div>
+
+    <!-- ── RATINGS ────────────────────────────────────────────── -->
+    <section id="section-ratings" class="section">
+      <h2 class="section-title">Customer Satisfaction</h2>
+      <div class="chart-card">
+        <canvas id="ratings"></canvas>
+        <div class="chart-footer">
+          <span class="chart-note">Normalized. Wider bands signify better ratings.</span>
+          <a class="chart-source" href="https://mbta-massdot.opendata.arcgis.com/" target="_blank">Source: MBTA Open Data Portal</a>
+        </div>
+        <div class="chart-btn-row">
+          <button id="ratings-view-btn">View: By Line</button>
+        </div>
+      </div>
+      <p class="prose">
+        Ratings remained in a decline from 2020 until the start of 2024. From then
+        ratings increased and remained steady since 2025.
+      </p>
+    </section>
+
+    <div class="spacer"></div>
+
+    <!-- ── CONCLUSION ─────────────────────────────────────────── -->
+    <section id="section-conclusion" class="section conclusion">
+      <h2 class="conclusion-title">Take Away</h2>
+      <p class="prose">
+        In the past several years, different metrics moved in different directions, but the trend
+        leans positive. Headways have fallen 33% from their 2022 peak, and customer ratings declined
+        and then rebounded, recovering since 2023 after a multi-year decline. Predictions have roughly
+        stayed the same. The uptick in alerts may make it appear that things are getting worse, but
+        this may be due to planned shutdowns for repairs or upgrades, which improve service in the long run.
+        Taken together, the metrics point toward a system that is actively being worked on. It seems
+        like the MBTA <i>is</i> getting better.
+      </p>
+    </section>
+
+  </div>
+
+  <footer class="footnote">created with Claude</footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation"></script>
+  <script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,2802 @@
+{
+  "communications": {
+    "2020": {
+      "1": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.14,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.14,
+        "Somewhat Satisfied": 0.23,
+        "Very Satisfied": 0.24,
+        "Extremely Satisfied": 0.05
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.09,
+        "Very Dissatisfied": 0.12,
+        "Somewhat Dissatisfied": 0.14,
+        "Neutral": 0.15,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.23,
+        "Extremely Satisfied": 0.05
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.16,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.08
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.05,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.21,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.32,
+        "Extremely Satisfied": 0.07
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.2,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.07
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.2,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.06
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.2,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.32,
+        "Extremely Satisfied": 0.06
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.19,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.34,
+        "Extremely Satisfied": 0.06
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.19,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.09
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.19,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.33,
+        "Extremely Satisfied": 0.08
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.2,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.32,
+        "Extremely Satisfied": 0.07
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.2,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.07
+      }
+    },
+    "2021": {
+      "1": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.2,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.32,
+        "Extremely Satisfied": 0.07
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.21,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.06
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.09,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.18,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.06
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.18,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.33,
+        "Extremely Satisfied": 0.06
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.18,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.34,
+        "Extremely Satisfied": 0.08
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.19,
+        "Somewhat Satisfied": 0.24,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.06
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.34,
+        "Extremely Satisfied": 0.07
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.14,
+        "Neutral": 0.18,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.29,
+        "Extremely Satisfied": 0.07
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.16,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.06
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.28,
+        "Extremely Satisfied": 0.06
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.15,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.07
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.18,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.29,
+        "Extremely Satisfied": 0.05
+      }
+    },
+    "2022": {
+      "1": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.19,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.07
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.16,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.05
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.05
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.28,
+        "Extremely Satisfied": 0.06
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.16,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.08
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.14,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.29,
+        "Extremely Satisfied": 0.06
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.13,
+        "Very Dissatisfied": 0.14,
+        "Somewhat Dissatisfied": 0.14,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.2,
+        "Extremely Satisfied": 0.04
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.15,
+        "Very Dissatisfied": 0.16,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.13,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.2,
+        "Extremely Satisfied": 0.05
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.14,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.2,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.21,
+        "Extremely Satisfied": 0.05
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.14,
+        "Very Dissatisfied": 0.15,
+        "Somewhat Dissatisfied": 0.14,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.2,
+        "Extremely Satisfied": 0.04
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.1,
+        "Very Dissatisfied": 0.18,
+        "Somewhat Dissatisfied": 0.14,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.2,
+        "Extremely Satisfied": 0.04
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.14,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.19,
+        "Somewhat Satisfied": 0.13,
+        "Very Satisfied": 0.25,
+        "Extremely Satisfied": 0.04
+      }
+    },
+    "2023": {
+      "1": {
+        "Extremely Dissatisfied": 0.1,
+        "Very Dissatisfied": 0.16,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.16,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.23,
+        "Extremely Satisfied": 0.04
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.1,
+        "Very Dissatisfied": 0.16,
+        "Somewhat Dissatisfied": 0.14,
+        "Neutral": 0.13,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.2,
+        "Extremely Satisfied": 0.05
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.17,
+        "Very Dissatisfied": 0.18,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.16,
+        "Extremely Satisfied": 0.04
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.14,
+        "Very Dissatisfied": 0.18,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.16,
+        "Extremely Satisfied": 0.04
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.12,
+        "Very Dissatisfied": 0.18,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.18,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.15,
+        "Extremely Satisfied": 0.04
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.1,
+        "Very Dissatisfied": 0.17,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.21,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.15,
+        "Extremely Satisfied": 0.04
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.12,
+        "Very Dissatisfied": 0.18,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.2,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.15,
+        "Extremely Satisfied": 0.04
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.17,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.19,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.18,
+        "Extremely Satisfied": 0.04
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.15,
+        "Very Dissatisfied": 0.19,
+        "Somewhat Dissatisfied": 0.17,
+        "Neutral": 0.14,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.15,
+        "Extremely Satisfied": 0.04
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.13,
+        "Very Dissatisfied": 0.19,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.15,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.16,
+        "Extremely Satisfied": 0.04
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.16,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.18,
+        "Extremely Satisfied": 0.04
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.16,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.19,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.19,
+        "Extremely Satisfied": 0.05
+      }
+    },
+    "2024": {
+      "1": {
+        "Extremely Dissatisfied": 0.16,
+        "Very Dissatisfied": 0.16,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.17,
+        "Extremely Satisfied": 0.04
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.12,
+        "Very Dissatisfied": 0.15,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.19,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.17,
+        "Extremely Satisfied": 0.04
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.12,
+        "Very Dissatisfied": 0.15,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.16,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.19,
+        "Extremely Satisfied": 0.05
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.15,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.18,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.2,
+        "Extremely Satisfied": 0.04
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.16,
+        "Somewhat Dissatisfied": 0.18,
+        "Neutral": 0.14,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.2,
+        "Extremely Satisfied": 0.07
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.12,
+        "Somewhat Dissatisfied": 0.17,
+        "Neutral": 0.14,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.24,
+        "Extremely Satisfied": 0.06
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.14,
+        "Very Dissatisfied": 0.16,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.16,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.2,
+        "Extremely Satisfied": 0.07
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.12,
+        "Somewhat Dissatisfied": 0.18,
+        "Neutral": 0.18,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.19,
+        "Extremely Satisfied": 0.07
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.13,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.16,
+        "Somewhat Satisfied": 0.24,
+        "Very Satisfied": 0.25,
+        "Extremely Satisfied": 0.08
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.03,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.23,
+        "Very Satisfied": 0.28,
+        "Extremely Satisfied": 0.08
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.14,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.25,
+        "Extremely Satisfied": 0.07
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.09,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.13,
+        "Somewhat Satisfied": 0.24,
+        "Very Satisfied": 0.29,
+        "Extremely Satisfied": 0.05
+      }
+    },
+    "2025": {
+      "1": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.09
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.13,
+        "Somewhat Satisfied": 0.25,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.07
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.03,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.16,
+        "Somewhat Satisfied": 0.24,
+        "Very Satisfied": 0.35,
+        "Extremely Satisfied": 0.06
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.16,
+        "Somewhat Satisfied": 0.23,
+        "Very Satisfied": 0.26,
+        "Extremely Satisfied": 0.07
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.03,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.19,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.29,
+        "Extremely Satisfied": 0.09
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.18,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.08
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.18,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.26,
+        "Extremely Satisfied": 0.1
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.16,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.28,
+        "Extremely Satisfied": 0.1
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.03,
+        "Very Dissatisfied": 0.05,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.23,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.12
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.05,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.14,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.34,
+        "Extremely Satisfied": 0.12
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.18,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.29,
+        "Extremely Satisfied": 0.09
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.29,
+        "Extremely Satisfied": 0.06
+      }
+    },
+    "2026": {
+      "1": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.34,
+        "Extremely Satisfied": 0.09
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.16,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.08
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.15,
+        "Somewhat Satisfied": 0.24,
+        "Very Satisfied": 0.28,
+        "Extremely Satisfied": 0.09
+      },
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null
+    }
+  },
+  "ratingOverall": {
+    "2020": {
+      "1": {
+        "Extremely Dissatisfied": 0.09,
+        "Very Dissatisfied": 0.13,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.26,
+        "Very Satisfied": 0.24,
+        "Extremely Satisfied": 0.04
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.13,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.26,
+        "Very Satisfied": 0.23,
+        "Extremely Satisfied": 0.04
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.14,
+        "Somewhat Satisfied": 0.24,
+        "Very Satisfied": 0.29,
+        "Extremely Satisfied": 0.06
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.2,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.06
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.19,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.05
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.19,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.05
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.19,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.05
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.16,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.32,
+        "Extremely Satisfied": 0.05
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.17,
+        "Somewhat Satisfied": 0.23,
+        "Very Satisfied": 0.29,
+        "Extremely Satisfied": 0.09
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.18,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.32,
+        "Extremely Satisfied": 0.06
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.15,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.06
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.15,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.06
+      }
+    },
+    "2021": {
+      "1": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.15,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.06
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.13,
+        "Somewhat Satisfied": 0.23,
+        "Very Satisfied": 0.32,
+        "Extremely Satisfied": 0.06
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.13,
+        "Very Dissatisfied": 0.12,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.13,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.26,
+        "Extremely Satisfied": 0.06
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.16,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.06
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.13,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.34,
+        "Extremely Satisfied": 0.07
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.15,
+        "Somewhat Satisfied": 0.24,
+        "Very Satisfied": 0.34,
+        "Extremely Satisfied": 0.04
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.23,
+        "Very Satisfied": 0.33,
+        "Extremely Satisfied": 0.07
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.13,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.32,
+        "Extremely Satisfied": 0.07
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.27,
+        "Very Satisfied": 0.28,
+        "Extremely Satisfied": 0.05
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.25,
+        "Very Satisfied": 0.29,
+        "Extremely Satisfied": 0.06
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.23,
+        "Very Satisfied": 0.35,
+        "Extremely Satisfied": 0.05
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.24,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.05
+      }
+    },
+    "2022": {
+      "1": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.13,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.33,
+        "Extremely Satisfied": 0.06
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.25,
+        "Very Satisfied": 0.33,
+        "Extremely Satisfied": 0.04
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.24,
+        "Very Satisfied": 0.32,
+        "Extremely Satisfied": 0.05
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.25,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.06
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.11,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.07
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.12,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.27,
+        "Extremely Satisfied": 0.06
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.14,
+        "Very Dissatisfied": 0.17,
+        "Somewhat Dissatisfied": 0.18,
+        "Neutral": 0.08,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.2,
+        "Extremely Satisfied": 0.03
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.17,
+        "Very Dissatisfied": 0.18,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.2,
+        "Extremely Satisfied": 0.03
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.1,
+        "Very Dissatisfied": 0.16,
+        "Somewhat Dissatisfied": 0.21,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.19,
+        "Extremely Satisfied": 0.04
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.15,
+        "Very Dissatisfied": 0.15,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.22,
+        "Extremely Satisfied": 0.03
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.1,
+        "Very Dissatisfied": 0.16,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.23,
+        "Extremely Satisfied": 0.04
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.1,
+        "Very Dissatisfied": 0.15,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.26,
+        "Extremely Satisfied": 0.03
+      }
+    },
+    "2023": {
+      "1": {
+        "Extremely Dissatisfied": 0.1,
+        "Very Dissatisfied": 0.16,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.24,
+        "Extremely Satisfied": 0.03
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.14,
+        "Somewhat Dissatisfied": 0.17,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.22,
+        "Extremely Satisfied": 0.04
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.23,
+        "Very Dissatisfied": 0.19,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.07,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.15,
+        "Extremely Satisfied": 0.03
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.17,
+        "Very Dissatisfied": 0.21,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.16,
+        "Extremely Satisfied": 0.03
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.14,
+        "Very Dissatisfied": 0.2,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.17,
+        "Extremely Satisfied": 0.03
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.12,
+        "Very Dissatisfied": 0.19,
+        "Somewhat Dissatisfied": 0.17,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.18,
+        "Extremely Satisfied": 0.04
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.15,
+        "Very Dissatisfied": 0.19,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.17,
+        "Extremely Satisfied": 0.03
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.12,
+        "Very Dissatisfied": 0.19,
+        "Somewhat Dissatisfied": 0.17,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.2,
+        "Extremely Satisfied": 0.04
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.18,
+        "Very Dissatisfied": 0.22,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.08,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.16,
+        "Extremely Satisfied": 0.03
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.17,
+        "Very Dissatisfied": 0.2,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.16,
+        "Extremely Satisfied": 0.03
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.13,
+        "Very Dissatisfied": 0.19,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.17,
+        "Extremely Satisfied": 0.04
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.18,
+        "Somewhat Dissatisfied": 0.17,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.2,
+        "Extremely Satisfied": 0.04
+      }
+    },
+    "2024": {
+      "1": {
+        "Extremely Dissatisfied": 0.17,
+        "Very Dissatisfied": 0.19,
+        "Somewhat Dissatisfied": 0.17,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.15,
+        "Extremely Satisfied": 0.03
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.14,
+        "Very Dissatisfied": 0.21,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.16,
+        "Extremely Satisfied": 0.03
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.13,
+        "Very Dissatisfied": 0.16,
+        "Somewhat Dissatisfied": 0.17,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.18,
+        "Extremely Satisfied": 0.04
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.13,
+        "Very Dissatisfied": 0.15,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.13,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.22,
+        "Extremely Satisfied": 0.03
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.1,
+        "Very Dissatisfied": 0.14,
+        "Somewhat Dissatisfied": 0.19,
+        "Neutral": 0.14,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.2,
+        "Extremely Satisfied": 0.05
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.15,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.25,
+        "Very Satisfied": 0.23,
+        "Extremely Satisfied": 0.06
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.17,
+        "Very Dissatisfied": 0.15,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.23,
+        "Extremely Satisfied": 0.04
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.13,
+        "Somewhat Dissatisfied": 0.14,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.25,
+        "Very Satisfied": 0.2,
+        "Extremely Satisfied": 0.07
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.13,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.28,
+        "Very Satisfied": 0.26,
+        "Extremely Satisfied": 0.06
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.26,
+        "Very Satisfied": 0.34,
+        "Extremely Satisfied": 0.06
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.26,
+        "Very Satisfied": 0.28,
+        "Extremely Satisfied": 0.06
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.26,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.05
+      }
+    },
+    "2025": {
+      "1": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.07,
+        "Neutral": 0.08,
+        "Somewhat Satisfied": 0.28,
+        "Very Satisfied": 0.32,
+        "Extremely Satisfied": 0.09
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.12,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.07,
+        "Somewhat Satisfied": 0.27,
+        "Very Satisfied": 0.35,
+        "Extremely Satisfied": 0.06
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.02,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.07,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.28,
+        "Very Satisfied": 0.41,
+        "Extremely Satisfied": 0.07
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.14,
+        "Neutral": 0.07,
+        "Somewhat Satisfied": 0.26,
+        "Very Satisfied": 0.29,
+        "Extremely Satisfied": 0.08
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.03,
+        "Very Dissatisfied": 0.05,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.07,
+        "Somewhat Satisfied": 0.25,
+        "Very Satisfied": 0.39,
+        "Extremely Satisfied": 0.11
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.28,
+        "Very Satisfied": 0.35,
+        "Extremely Satisfied": 0.05
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.26,
+        "Very Satisfied": 0.33,
+        "Extremely Satisfied": 0.09
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.03,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.27,
+        "Very Satisfied": 0.34,
+        "Extremely Satisfied": 0.09
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.02,
+        "Very Dissatisfied": 0.04,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.22,
+        "Very Satisfied": 0.41,
+        "Extremely Satisfied": 0.12
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.05,
+        "Somewhat Dissatisfied": 0.07,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.24,
+        "Very Satisfied": 0.4,
+        "Extremely Satisfied": 0.1
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.06,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.24,
+        "Very Satisfied": 0.35,
+        "Extremely Satisfied": 0.08
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.17,
+        "Neutral": 0.08,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.36,
+        "Extremely Satisfied": 0.05
+      }
+    },
+    "2026": {
+      "1": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.08,
+        "Somewhat Satisfied": 0.14,
+        "Very Satisfied": 0.42,
+        "Extremely Satisfied": 0.1
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.25,
+        "Very Satisfied": 0.35,
+        "Extremely Satisfied": 0.08
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.23,
+        "Very Satisfied": 0.35,
+        "Extremely Satisfied": 0.1
+      },
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null
+    }
+  },
+  "recentTripRating": {
+    "2020": {
+      "1": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.35,
+        "Extremely Satisfied": 0.1
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.32,
+        "Extremely Satisfied": 0.1
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.04,
+        "Somewhat Dissatisfied": 0.06,
+        "Neutral": 0.08,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.41,
+        "Extremely Satisfied": 0.21
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.03,
+        "Somewhat Dissatisfied": 0.04,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.08,
+        "Very Satisfied": 0.49,
+        "Extremely Satisfied": 0.18
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.03,
+        "Very Dissatisfied": 0.06,
+        "Somewhat Dissatisfied": 0.04,
+        "Neutral": 0.06,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.49,
+        "Extremely Satisfied": 0.18
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.07,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.12,
+        "Very Satisfied": 0.43,
+        "Extremely Satisfied": 0.16
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.07,
+        "Somewhat Satisfied": 0.12,
+        "Very Satisfied": 0.41,
+        "Extremely Satisfied": 0.18
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.05,
+        "Somewhat Dissatisfied": 0.07,
+        "Neutral": 0.07,
+        "Somewhat Satisfied": 0.12,
+        "Very Satisfied": 0.46,
+        "Extremely Satisfied": 0.16
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.02,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.07,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.42,
+        "Extremely Satisfied": 0.16
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.02,
+        "Very Dissatisfied": 0.06,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.13,
+        "Very Satisfied": 0.43,
+        "Extremely Satisfied": 0.19
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.05,
+        "Somewhat Dissatisfied": 0.05,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.11,
+        "Very Satisfied": 0.42,
+        "Extremely Satisfied": 0.21
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.04,
+        "Somewhat Dissatisfied": 0.06,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.42,
+        "Extremely Satisfied": 0.2
+      }
+    },
+    "2021": {
+      "1": {
+        "Extremely Dissatisfied": 0.02,
+        "Very Dissatisfied": 0.04,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.08,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.47,
+        "Extremely Satisfied": 0.15
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.02,
+        "Very Dissatisfied": 0.06,
+        "Somewhat Dissatisfied": 0.04,
+        "Neutral": 0.07,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.45,
+        "Extremely Satisfied": 0.19
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.07,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.33,
+        "Extremely Satisfied": 0.14
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.38,
+        "Extremely Satisfied": 0.14
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.03,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.05,
+        "Neutral": 0.07,
+        "Somewhat Satisfied": 0.13,
+        "Very Satisfied": 0.44,
+        "Extremely Satisfied": 0.21
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.05,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.43,
+        "Extremely Satisfied": 0.12
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.03,
+        "Very Dissatisfied": 0.06,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.05,
+        "Somewhat Satisfied": 0.14,
+        "Very Satisfied": 0.46,
+        "Extremely Satisfied": 0.17
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.06,
+        "Somewhat Dissatisfied": 0.07,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.4,
+        "Extremely Satisfied": 0.15
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.07,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.37,
+        "Extremely Satisfied": 0.13
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.06,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.08,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.38,
+        "Extremely Satisfied": 0.16
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.14,
+        "Very Satisfied": 0.41,
+        "Extremely Satisfied": 0.12
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.37,
+        "Extremely Satisfied": 0.13
+      }
+    },
+    "2022": {
+      "1": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.04,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.13,
+        "Very Satisfied": 0.45,
+        "Extremely Satisfied": 0.15
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.08,
+        "Somewhat Satisfied": 0.14,
+        "Very Satisfied": 0.43,
+        "Extremely Satisfied": 0.1
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.13,
+        "Very Satisfied": 0.4,
+        "Extremely Satisfied": 0.14
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.06,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.08,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.42,
+        "Extremely Satisfied": 0.14
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.06,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.13,
+        "Very Satisfied": 0.39,
+        "Extremely Satisfied": 0.17
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.39,
+        "Extremely Satisfied": 0.11
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.1,
+        "Very Dissatisfied": 0.12,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.14,
+        "Very Satisfied": 0.34,
+        "Extremely Satisfied": 0.1
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.14,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.33,
+        "Extremely Satisfied": 0.11
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.11,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.13,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.09
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.13,
+        "Very Dissatisfied": 0.12,
+        "Somewhat Dissatisfied": 0.14,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.29,
+        "Extremely Satisfied": 0.1
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.09,
+        "Very Dissatisfied": 0.12,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.35,
+        "Extremely Satisfied": 0.1
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.33,
+        "Extremely Satisfied": 0.1
+      }
+    },
+    "2023": {
+      "1": {
+        "Extremely Dissatisfied": 0.1,
+        "Very Dissatisfied": 0.11,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.14,
+        "Very Satisfied": 0.37,
+        "Extremely Satisfied": 0.08
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.06,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.13,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.28,
+        "Extremely Satisfied": 0.12
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.18,
+        "Very Dissatisfied": 0.14,
+        "Somewhat Dissatisfied": 0.14,
+        "Neutral": 0.08,
+        "Somewhat Satisfied": 0.14,
+        "Very Satisfied": 0.24,
+        "Extremely Satisfied": 0.09
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.13,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.14,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.28,
+        "Extremely Satisfied": 0.07
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.13,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.29,
+        "Extremely Satisfied": 0.09
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.09,
+        "Very Dissatisfied": 0.12,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.24,
+        "Extremely Satisfied": 0.07
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.12,
+        "Very Dissatisfied": 0.12,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.14,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.28,
+        "Extremely Satisfied": 0.07
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.12,
+        "Very Dissatisfied": 0.12,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.14,
+        "Very Satisfied": 0.28,
+        "Extremely Satisfied": 0.08
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.15,
+        "Very Dissatisfied": 0.16,
+        "Somewhat Dissatisfied": 0.16,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.14,
+        "Very Satisfied": 0.22,
+        "Extremely Satisfied": 0.06
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.13,
+        "Very Dissatisfied": 0.13,
+        "Somewhat Dissatisfied": 0.14,
+        "Neutral": 0.13,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.24,
+        "Extremely Satisfied": 0.06
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.13,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.21,
+        "Very Satisfied": 0.25,
+        "Extremely Satisfied": 0.06
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.09,
+        "Very Dissatisfied": 0.11,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.3,
+        "Extremely Satisfied": 0.09
+      }
+    },
+    "2024": {
+      "1": {
+        "Extremely Dissatisfied": 0.16,
+        "Very Dissatisfied": 0.13,
+        "Somewhat Dissatisfied": 0.14,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.24,
+        "Extremely Satisfied": 0.06
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.12,
+        "Very Dissatisfied": 0.14,
+        "Somewhat Dissatisfied": 0.15,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.26,
+        "Extremely Satisfied": 0.07
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.13,
+        "Somewhat Dissatisfied": 0.14,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.26,
+        "Extremely Satisfied": 0.07
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.34,
+        "Extremely Satisfied": 0.09
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.11,
+        "Somewhat Dissatisfied": 0.12,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.24,
+        "Very Satisfied": 0.29,
+        "Extremely Satisfied": 0.08
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.1,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.34,
+        "Extremely Satisfied": 0.09
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.12,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.07,
+        "Somewhat Satisfied": 0.14,
+        "Very Satisfied": 0.33,
+        "Extremely Satisfied": 0.09
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.11,
+        "Very Dissatisfied": 0.08,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.31,
+        "Extremely Satisfied": 0.1
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.35,
+        "Extremely Satisfied": 0.11
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.02,
+        "Very Dissatisfied": 0.05,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.06,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.45,
+        "Extremely Satisfied": 0.1
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.1,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.14,
+        "Very Satisfied": 0.41,
+        "Extremely Satisfied": 0.11
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.06,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.19,
+        "Very Satisfied": 0.41,
+        "Extremely Satisfied": 0.08
+      }
+    },
+    "2025": {
+      "1": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.07,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.13,
+        "Very Satisfied": 0.42,
+        "Extremely Satisfied": 0.16
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.06,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.13,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.36,
+        "Extremely Satisfied": 0.13
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.01,
+        "Very Dissatisfied": 0.04,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.2,
+        "Very Satisfied": 0.42,
+        "Extremely Satisfied": 0.15
+      },
+      "4": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.09,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.08,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.35,
+        "Extremely Satisfied": 0.11
+      },
+      "5": {
+        "Extremely Dissatisfied": 0.02,
+        "Very Dissatisfied": 0.04,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.42,
+        "Extremely Satisfied": 0.15
+      },
+      "6": {
+        "Extremely Dissatisfied": 0.07,
+        "Very Dissatisfied": 0.05,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.41,
+        "Extremely Satisfied": 0.11
+      },
+      "7": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.05,
+        "Somewhat Dissatisfied": 0.08,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.13,
+        "Very Satisfied": 0.44,
+        "Extremely Satisfied": 0.13
+      },
+      "8": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.06,
+        "Somewhat Dissatisfied": 0.06,
+        "Neutral": 0.12,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.46,
+        "Extremely Satisfied": 0.11
+      },
+      "9": {
+        "Extremely Dissatisfied": 0.02,
+        "Very Dissatisfied": 0.06,
+        "Somewhat Dissatisfied": 0.07,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.18,
+        "Very Satisfied": 0.38,
+        "Extremely Satisfied": 0.18
+      },
+      "10": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.05,
+        "Somewhat Dissatisfied": 0.06,
+        "Neutral": 0.07,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.44,
+        "Extremely Satisfied": 0.16
+      },
+      "11": {
+        "Extremely Dissatisfied": 0.04,
+        "Very Dissatisfied": 0.05,
+        "Somewhat Dissatisfied": 0.06,
+        "Neutral": 0.1,
+        "Somewhat Satisfied": 0.16,
+        "Very Satisfied": 0.42,
+        "Extremely Satisfied": 0.16
+      },
+      "12": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.11,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.15,
+        "Very Satisfied": 0.37,
+        "Extremely Satisfied": 0.13
+      }
+    },
+    "2026": {
+      "1": {
+        "Extremely Dissatisfied": 0.08,
+        "Very Dissatisfied": 0.05,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.14,
+        "Very Satisfied": 0.4,
+        "Extremely Satisfied": 0.15
+      },
+      "2": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.07,
+        "Somewhat Dissatisfied": 0.05,
+        "Neutral": 0.11,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.42,
+        "Extremely Satisfied": 0.12
+      },
+      "3": {
+        "Extremely Dissatisfied": 0.05,
+        "Very Dissatisfied": 0.06,
+        "Somewhat Dissatisfied": 0.09,
+        "Neutral": 0.09,
+        "Somewhat Satisfied": 0.17,
+        "Very Satisfied": 0.39,
+        "Extremely Satisfied": 0.17
+      },
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null
+    }
+  },
+  "reliable": {
+    "2020": {
+      "1": {
+        "Strongly Disagree": 0.16,
+        "Disagree": 0.17,
+        "Slightly Disagree": 0.18,
+        "Neither Agree nor Disagree": 0.11,
+        "Slightly Agree": 0.23,
+        "Agree": 0.13,
+        "Strongly Agree": 0.02
+      },
+      "2": {
+        "Strongly Disagree": 0.18,
+        "Disagree": 0.15,
+        "Slightly Disagree": 0.17,
+        "Neither Agree nor Disagree": 0.08,
+        "Slightly Agree": 0.23,
+        "Agree": 0.15,
+        "Strongly Agree": 0.03
+      },
+      "3": {
+        "Strongly Disagree": 0.1,
+        "Disagree": 0.13,
+        "Slightly Disagree": 0.13,
+        "Neither Agree nor Disagree": 0.11,
+        "Slightly Agree": 0.29,
+        "Agree": 0.19,
+        "Strongly Agree": 0.05
+      },
+      "4": {
+        "Strongly Disagree": 0.08,
+        "Disagree": 0.1,
+        "Slightly Disagree": 0.15,
+        "Neither Agree nor Disagree": 0.12,
+        "Slightly Agree": 0.27,
+        "Agree": 0.21,
+        "Strongly Agree": 0.07
+      },
+      "5": {
+        "Strongly Disagree": 0.09,
+        "Disagree": 0.11,
+        "Slightly Disagree": 0.14,
+        "Neither Agree nor Disagree": 0.12,
+        "Slightly Agree": 0.29,
+        "Agree": 0.22,
+        "Strongly Agree": 0.05
+      },
+      "6": {
+        "Strongly Disagree": 0.09,
+        "Disagree": 0.13,
+        "Slightly Disagree": 0.14,
+        "Neither Agree nor Disagree": 0.12,
+        "Slightly Agree": 0.25,
+        "Agree": 0.22,
+        "Strongly Agree": 0.05
+      },
+      "7": {
+        "Strongly Disagree": 0.09,
+        "Disagree": 0.13,
+        "Slightly Disagree": 0.12,
+        "Neither Agree nor Disagree": 0.12,
+        "Slightly Agree": 0.25,
+        "Agree": 0.23,
+        "Strongly Agree": 0.05
+      },
+      "8": {
+        "Strongly Disagree": 0.1,
+        "Disagree": 0.1,
+        "Slightly Disagree": 0.14,
+        "Neither Agree nor Disagree": 0.12,
+        "Slightly Agree": 0.26,
+        "Agree": 0.23,
+        "Strongly Agree": 0.06
+      },
+      "9": {
+        "Strongly Disagree": 0.07,
+        "Disagree": 0.1,
+        "Slightly Disagree": 0.13,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.26,
+        "Agree": 0.27,
+        "Strongly Agree": 0.07
+      },
+      "10": {
+        "Strongly Disagree": 0.08,
+        "Disagree": 0.09,
+        "Slightly Disagree": 0.13,
+        "Neither Agree nor Disagree": 0.11,
+        "Slightly Agree": 0.27,
+        "Agree": 0.27,
+        "Strongly Agree": 0.05
+      },
+      "11": {
+        "Strongly Disagree": 0.1,
+        "Disagree": 0.1,
+        "Slightly Disagree": 0.15,
+        "Neither Agree nor Disagree": 0.12,
+        "Slightly Agree": 0.23,
+        "Agree": 0.24,
+        "Strongly Agree": 0.08
+      },
+      "12": {
+        "Strongly Disagree": 0.1,
+        "Disagree": 0.12,
+        "Slightly Disagree": 0.15,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.24,
+        "Agree": 0.23,
+        "Strongly Agree": 0.06
+      }
+    },
+    "2021": {
+      "1": {
+        "Strongly Disagree": 0.09,
+        "Disagree": 0.12,
+        "Slightly Disagree": 0.12,
+        "Neither Agree nor Disagree": 0.11,
+        "Slightly Agree": 0.26,
+        "Agree": 0.24,
+        "Strongly Agree": 0.06
+      },
+      "2": {
+        "Strongly Disagree": 0.1,
+        "Disagree": 0.1,
+        "Slightly Disagree": 0.13,
+        "Neither Agree nor Disagree": 0.12,
+        "Slightly Agree": 0.24,
+        "Agree": 0.25,
+        "Strongly Agree": 0.06
+      },
+      "3": {
+        "Strongly Disagree": 0.17,
+        "Disagree": 0.13,
+        "Slightly Disagree": 0.15,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.19,
+        "Agree": 0.22,
+        "Strongly Agree": 0.04
+      },
+      "4": {
+        "Strongly Disagree": 0.1,
+        "Disagree": 0.1,
+        "Slightly Disagree": 0.17,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.25,
+        "Agree": 0.24,
+        "Strongly Agree": 0.05
+      },
+      "5": {
+        "Strongly Disagree": 0.07,
+        "Disagree": 0.12,
+        "Slightly Disagree": 0.13,
+        "Neither Agree nor Disagree": 0.13,
+        "Slightly Agree": 0.25,
+        "Agree": 0.25,
+        "Strongly Agree": 0.04
+      },
+      "6": {
+        "Strongly Disagree": 0.08,
+        "Disagree": 0.11,
+        "Slightly Disagree": 0.14,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.3,
+        "Agree": 0.23,
+        "Strongly Agree": 0.05
+      },
+      "7": {
+        "Strongly Disagree": 0.08,
+        "Disagree": 0.1,
+        "Slightly Disagree": 0.16,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.28,
+        "Agree": 0.21,
+        "Strongly Agree": 0.06
+      },
+      "8": {
+        "Strongly Disagree": 0.09,
+        "Disagree": 0.11,
+        "Slightly Disagree": 0.14,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.29,
+        "Agree": 0.21,
+        "Strongly Agree": 0.06
+      },
+      "9": {
+        "Strongly Disagree": 0.09,
+        "Disagree": 0.12,
+        "Slightly Disagree": 0.14,
+        "Neither Agree nor Disagree": 0.11,
+        "Slightly Agree": 0.28,
+        "Agree": 0.21,
+        "Strongly Agree": 0.05
+      },
+      "10": {
+        "Strongly Disagree": 0.11,
+        "Disagree": 0.11,
+        "Slightly Disagree": 0.13,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.3,
+        "Agree": 0.19,
+        "Strongly Agree": 0.05
+      },
+      "11": {
+        "Strongly Disagree": 0.09,
+        "Disagree": 0.1,
+        "Slightly Disagree": 0.14,
+        "Neither Agree nor Disagree": 0.08,
+        "Slightly Agree": 0.3,
+        "Agree": 0.23,
+        "Strongly Agree": 0.06
+      },
+      "12": {
+        "Strongly Disagree": 0.1,
+        "Disagree": 0.12,
+        "Slightly Disagree": 0.14,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.31,
+        "Agree": 0.21,
+        "Strongly Agree": 0.03
+      }
+    },
+    "2022": {
+      "1": {
+        "Strongly Disagree": 0.07,
+        "Disagree": 0.09,
+        "Slightly Disagree": 0.15,
+        "Neither Agree nor Disagree": 0.12,
+        "Slightly Agree": 0.27,
+        "Agree": 0.24,
+        "Strongly Agree": 0.05
+      },
+      "2": {
+        "Strongly Disagree": 0.09,
+        "Disagree": 0.12,
+        "Slightly Disagree": 0.14,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.27,
+        "Agree": 0.24,
+        "Strongly Agree": 0.04
+      },
+      "3": {
+        "Strongly Disagree": 0.09,
+        "Disagree": 0.11,
+        "Slightly Disagree": 0.15,
+        "Neither Agree nor Disagree": 0.11,
+        "Slightly Agree": 0.27,
+        "Agree": 0.23,
+        "Strongly Agree": 0.05
+      },
+      "4": {
+        "Strongly Disagree": 0.09,
+        "Disagree": 0.1,
+        "Slightly Disagree": 0.13,
+        "Neither Agree nor Disagree": 0.11,
+        "Slightly Agree": 0.31,
+        "Agree": 0.21,
+        "Strongly Agree": 0.05
+      },
+      "5": {
+        "Strongly Disagree": 0.08,
+        "Disagree": 0.12,
+        "Slightly Disagree": 0.15,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.29,
+        "Agree": 0.21,
+        "Strongly Agree": 0.05
+      },
+      "6": {
+        "Strongly Disagree": 0.11,
+        "Disagree": 0.13,
+        "Slightly Disagree": 0.17,
+        "Neither Agree nor Disagree": 0.08,
+        "Slightly Agree": 0.25,
+        "Agree": 0.2,
+        "Strongly Agree": 0.06
+      },
+      "7": {
+        "Strongly Disagree": 0.21,
+        "Disagree": 0.17,
+        "Slightly Disagree": 0.17,
+        "Neither Agree nor Disagree": 0.11,
+        "Slightly Agree": 0.21,
+        "Agree": 0.1,
+        "Strongly Agree": 0.02
+      },
+      "8": {
+        "Strongly Disagree": 0.27,
+        "Disagree": 0.19,
+        "Slightly Disagree": 0.16,
+        "Neither Agree nor Disagree": 0.07,
+        "Slightly Agree": 0.17,
+        "Agree": 0.11,
+        "Strongly Agree": 0.03
+      },
+      "9": {
+        "Strongly Disagree": 0.18,
+        "Disagree": 0.17,
+        "Slightly Disagree": 0.19,
+        "Neither Agree nor Disagree": 0.11,
+        "Slightly Agree": 0.19,
+        "Agree": 0.12,
+        "Strongly Agree": 0.04
+      },
+      "10": {
+        "Strongly Disagree": 0.21,
+        "Disagree": 0.18,
+        "Slightly Disagree": 0.16,
+        "Neither Agree nor Disagree": 0.08,
+        "Slightly Agree": 0.22,
+        "Agree": 0.12,
+        "Strongly Agree": 0.03
+      },
+      "11": {
+        "Strongly Disagree": 0.17,
+        "Disagree": 0.15,
+        "Slightly Disagree": 0.19,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.23,
+        "Agree": 0.14,
+        "Strongly Agree": 0.03
+      },
+      "12": {
+        "Strongly Disagree": 0.16,
+        "Disagree": 0.17,
+        "Slightly Disagree": 0.19,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.22,
+        "Agree": 0.15,
+        "Strongly Agree": 0.03
+      }
+    },
+    "2023": {
+      "1": {
+        "Strongly Disagree": 0.16,
+        "Disagree": 0.16,
+        "Slightly Disagree": 0.19,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.22,
+        "Agree": 0.15,
+        "Strongly Agree": 0.03
+      },
+      "2": {
+        "Strongly Disagree": 0.17,
+        "Disagree": 0.18,
+        "Slightly Disagree": 0.16,
+        "Neither Agree nor Disagree": 0.12,
+        "Slightly Agree": 0.22,
+        "Agree": 0.12,
+        "Strongly Agree": 0.03
+      },
+      "3": {
+        "Strongly Disagree": 0.28,
+        "Disagree": 0.2,
+        "Slightly Disagree": 0.17,
+        "Neither Agree nor Disagree": 0.08,
+        "Slightly Agree": 0.15,
+        "Agree": 0.09,
+        "Strongly Agree": 0.03
+      },
+      "4": {
+        "Strongly Disagree": 0.26,
+        "Disagree": 0.2,
+        "Slightly Disagree": 0.17,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.15,
+        "Agree": 0.1,
+        "Strongly Agree": 0.03
+      },
+      "5": {
+        "Strongly Disagree": 0.25,
+        "Disagree": 0.19,
+        "Slightly Disagree": 0.16,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.18,
+        "Agree": 0.09,
+        "Strongly Agree": 0.03
+      },
+      "6": {
+        "Strongly Disagree": 0.21,
+        "Disagree": 0.2,
+        "Slightly Disagree": 0.2,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.17,
+        "Agree": 0.1,
+        "Strongly Agree": 0.04
+      },
+      "7": {
+        "Strongly Disagree": 0.24,
+        "Disagree": 0.19,
+        "Slightly Disagree": 0.19,
+        "Neither Agree nor Disagree": 0.08,
+        "Slightly Agree": 0.18,
+        "Agree": 0.09,
+        "Strongly Agree": 0.02
+      },
+      "8": {
+        "Strongly Disagree": 0.23,
+        "Disagree": 0.18,
+        "Slightly Disagree": 0.17,
+        "Neither Agree nor Disagree": 0.08,
+        "Slightly Agree": 0.21,
+        "Agree": 0.1,
+        "Strongly Agree": 0.03
+      },
+      "9": {
+        "Strongly Disagree": 0.27,
+        "Disagree": 0.19,
+        "Slightly Disagree": 0.16,
+        "Neither Agree nor Disagree": 0.08,
+        "Slightly Agree": 0.17,
+        "Agree": 0.09,
+        "Strongly Agree": 0.03
+      },
+      "10": {
+        "Strongly Disagree": 0.27,
+        "Disagree": 0.2,
+        "Slightly Disagree": 0.17,
+        "Neither Agree nor Disagree": 0.08,
+        "Slightly Agree": 0.17,
+        "Agree": 0.08,
+        "Strongly Agree": 0.03
+      },
+      "11": {
+        "Strongly Disagree": 0.22,
+        "Disagree": 0.2,
+        "Slightly Disagree": 0.18,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.17,
+        "Agree": 0.1,
+        "Strongly Agree": 0.03
+      },
+      "12": {
+        "Strongly Disagree": 0.23,
+        "Disagree": 0.17,
+        "Slightly Disagree": 0.19,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.18,
+        "Agree": 0.1,
+        "Strongly Agree": 0.04
+      }
+    },
+    "2024": {
+      "1": {
+        "Strongly Disagree": 0.27,
+        "Disagree": 0.18,
+        "Slightly Disagree": 0.18,
+        "Neither Agree nor Disagree": 0.08,
+        "Slightly Agree": 0.17,
+        "Agree": 0.09,
+        "Strongly Agree": 0.02
+      },
+      "2": {
+        "Strongly Disagree": 0.25,
+        "Disagree": 0.19,
+        "Slightly Disagree": 0.17,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.17,
+        "Agree": 0.09,
+        "Strongly Agree": 0.03
+      },
+      "3": {
+        "Strongly Disagree": 0.23,
+        "Disagree": 0.16,
+        "Slightly Disagree": 0.17,
+        "Neither Agree nor Disagree": 0.12,
+        "Slightly Agree": 0.19,
+        "Agree": 0.1,
+        "Strongly Agree": 0.03
+      },
+      "4": {
+        "Strongly Disagree": 0.23,
+        "Disagree": 0.17,
+        "Slightly Disagree": 0.17,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.21,
+        "Agree": 0.11,
+        "Strongly Agree": 0.03
+      },
+      "5": {
+        "Strongly Disagree": 0.23,
+        "Disagree": 0.13,
+        "Slightly Disagree": 0.18,
+        "Neither Agree nor Disagree": 0.08,
+        "Slightly Agree": 0.21,
+        "Agree": 0.12,
+        "Strongly Agree": 0.05
+      },
+      "6": {
+        "Strongly Disagree": 0.18,
+        "Disagree": 0.14,
+        "Slightly Disagree": 0.18,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.24,
+        "Agree": 0.12,
+        "Strongly Agree": 0.05
+      },
+      "7": {
+        "Strongly Disagree": 0.26,
+        "Disagree": 0.17,
+        "Slightly Disagree": 0.13,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.2,
+        "Agree": 0.11,
+        "Strongly Agree": 0.02
+      },
+      "8": {
+        "Strongly Disagree": 0.19,
+        "Disagree": 0.17,
+        "Slightly Disagree": 0.2,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.16,
+        "Agree": 0.11,
+        "Strongly Agree": 0.06
+      },
+      "9": {
+        "Strongly Disagree": 0.16,
+        "Disagree": 0.13,
+        "Slightly Disagree": 0.21,
+        "Neither Agree nor Disagree": 0.08,
+        "Slightly Agree": 0.21,
+        "Agree": 0.17,
+        "Strongly Agree": 0.04
+      },
+      "10": {
+        "Strongly Disagree": 0.08,
+        "Disagree": 0.16,
+        "Slightly Disagree": 0.18,
+        "Neither Agree nor Disagree": 0.06,
+        "Slightly Agree": 0.27,
+        "Agree": 0.21,
+        "Strongly Agree": 0.04
+      },
+      "11": {
+        "Strongly Disagree": 0.12,
+        "Disagree": 0.15,
+        "Slightly Disagree": 0.19,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.25,
+        "Agree": 0.15,
+        "Strongly Agree": 0.03
+      },
+      "12": {
+        "Strongly Disagree": 0.13,
+        "Disagree": 0.15,
+        "Slightly Disagree": 0.16,
+        "Neither Agree nor Disagree": 0.08,
+        "Slightly Agree": 0.3,
+        "Agree": 0.16,
+        "Strongly Agree": 0.03
+      }
+    },
+    "2025": {
+      "1": {
+        "Strongly Disagree": 0.11,
+        "Disagree": 0.11,
+        "Slightly Disagree": 0.11,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.28,
+        "Agree": 0.2,
+        "Strongly Agree": 0.09
+      },
+      "2": {
+        "Strongly Disagree": 0.13,
+        "Disagree": 0.1,
+        "Slightly Disagree": 0.11,
+        "Neither Agree nor Disagree": 0.12,
+        "Slightly Agree": 0.28,
+        "Agree": 0.22,
+        "Strongly Agree": 0.05
+      },
+      "3": {
+        "Strongly Disagree": 0.05,
+        "Disagree": 0.13,
+        "Slightly Disagree": 0.11,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.33,
+        "Agree": 0.24,
+        "Strongly Agree": 0.05
+      },
+      "4": {
+        "Strongly Disagree": 0.11,
+        "Disagree": 0.14,
+        "Slightly Disagree": 0.15,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.25,
+        "Agree": 0.21,
+        "Strongly Agree": 0.04
+      },
+      "5": {
+        "Strongly Disagree": 0.06,
+        "Disagree": 0.08,
+        "Slightly Disagree": 0.16,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.28,
+        "Agree": 0.22,
+        "Strongly Agree": 0.1
+      },
+      "6": {
+        "Strongly Disagree": 0.09,
+        "Disagree": 0.09,
+        "Slightly Disagree": 0.14,
+        "Neither Agree nor Disagree": 0.13,
+        "Slightly Agree": 0.28,
+        "Agree": 0.21,
+        "Strongly Agree": 0.07
+      },
+      "7": {
+        "Strongly Disagree": 0.09,
+        "Disagree": 0.07,
+        "Slightly Disagree": 0.13,
+        "Neither Agree nor Disagree": 0.12,
+        "Slightly Agree": 0.29,
+        "Agree": 0.21,
+        "Strongly Agree": 0.09
+      },
+      "8": {
+        "Strongly Disagree": 0.1,
+        "Disagree": 0.09,
+        "Slightly Disagree": 0.15,
+        "Neither Agree nor Disagree": 0.1,
+        "Slightly Agree": 0.29,
+        "Agree": 0.19,
+        "Strongly Agree": 0.08
+      },
+      "9": {
+        "Strongly Disagree": 0.04,
+        "Disagree": 0.09,
+        "Slightly Disagree": 0.14,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.26,
+        "Agree": 0.23,
+        "Strongly Agree": 0.14
+      },
+      "10": {
+        "Strongly Disagree": 0.06,
+        "Disagree": 0.06,
+        "Slightly Disagree": 0.13,
+        "Neither Agree nor Disagree": 0.07,
+        "Slightly Agree": 0.34,
+        "Agree": 0.25,
+        "Strongly Agree": 0.09
+      },
+      "11": {
+        "Strongly Disagree": 0.07,
+        "Disagree": 0.09,
+        "Slightly Disagree": 0.12,
+        "Neither Agree nor Disagree": 0.11,
+        "Slightly Agree": 0.28,
+        "Agree": 0.25,
+        "Strongly Agree": 0.07
+      },
+      "12": {
+        "Strongly Disagree": 0.09,
+        "Disagree": 0.1,
+        "Slightly Disagree": 0.18,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.25,
+        "Agree": 0.24,
+        "Strongly Agree": 0.05
+      }
+    },
+    "2026": {
+      "1": {
+        "Strongly Disagree": 0.07,
+        "Disagree": 0.11,
+        "Slightly Disagree": 0.1,
+        "Neither Agree nor Disagree": 0.08,
+        "Slightly Agree": 0.28,
+        "Agree": 0.27,
+        "Strongly Agree": 0.09
+      },
+      "2": {
+        "Strongly Disagree": 0.07,
+        "Disagree": 0.1,
+        "Slightly Disagree": 0.16,
+        "Neither Agree nor Disagree": 0.07,
+        "Slightly Agree": 0.3,
+        "Agree": 0.21,
+        "Strongly Agree": 0.09
+      },
+      "3": {
+        "Strongly Disagree": 0.09,
+        "Disagree": 0.09,
+        "Slightly Disagree": 0.12,
+        "Neither Agree nor Disagree": 0.09,
+        "Slightly Agree": 0.28,
+        "Agree": 0.23,
+        "Strongly Agree": 0.09
+      },
+      "4": null,
+      "5": null,
+      "6": null,
+      "7": null,
+      "8": null,
+      "9": null,
+      "10": null,
+      "11": null,
+      "12": null
+    }
+  }
+}

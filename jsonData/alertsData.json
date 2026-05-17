@@ -1,0 +1,594 @@
+{
+  "2019": {
+    "1": {
+      "red": 58,
+      "orange": 39,
+      "blue": 4,
+      "green": 43
+    },
+    "2": {
+      "red": 32,
+      "orange": 30,
+      "blue": 9,
+      "green": 36
+    },
+    "3": {
+      "red": 30,
+      "orange": 22,
+      "blue": 14,
+      "green": 37
+    },
+    "4": {
+      "red": 39,
+      "orange": 35,
+      "blue": 11,
+      "green": 41
+    },
+    "5": {
+      "red": 30,
+      "orange": 21,
+      "blue": 7,
+      "green": 31
+    },
+    "6": {
+      "red": 37,
+      "orange": 18,
+      "blue": 14,
+      "green": 46
+    },
+    "7": {
+      "red": 21,
+      "orange": 28,
+      "blue": 14,
+      "green": 30
+    },
+    "8": {
+      "red": 34,
+      "orange": 30,
+      "blue": 5,
+      "green": 40
+    },
+    "9": {
+      "red": 20,
+      "orange": 28,
+      "blue": 7,
+      "green": 33
+    },
+    "10": {
+      "red": 33,
+      "orange": 30,
+      "blue": 7,
+      "green": 33
+    },
+    "11": {
+      "red": 35,
+      "orange": 35,
+      "blue": 6,
+      "green": 28
+    },
+    "12": {
+      "red": 35,
+      "orange": 32,
+      "blue": 6,
+      "green": 34
+    }
+  },
+  "2020": {
+    "1": {
+      "red": 25,
+      "orange": 28,
+      "blue": 16,
+      "green": 31
+    },
+    "2": {
+      "red": 40,
+      "orange": 25,
+      "blue": 4,
+      "green": 53
+    },
+    "3": {
+      "red": 27,
+      "orange": 26,
+      "blue": 7,
+      "green": 24
+    },
+    "4": {
+      "red": 26,
+      "orange": 17,
+      "blue": 9,
+      "green": 16
+    },
+    "5": {
+      "red": 17,
+      "orange": 18,
+      "blue": 8,
+      "green": 32
+    },
+    "6": {
+      "red": 35,
+      "orange": 17,
+      "blue": 12,
+      "green": 33
+    },
+    "7": {
+      "red": 22,
+      "orange": 32,
+      "blue": 12,
+      "green": 28
+    },
+    "8": {
+      "red": 26,
+      "orange": 36,
+      "blue": 16,
+      "green": 30
+    },
+    "9": {
+      "red": 16,
+      "orange": 22,
+      "blue": 5,
+      "green": 41
+    },
+    "10": {
+      "red": 24,
+      "orange": 31,
+      "blue": 11,
+      "green": 65
+    },
+    "11": {
+      "red": 44,
+      "orange": 25,
+      "blue": 9,
+      "green": 44
+    },
+    "12": {
+      "red": 36,
+      "orange": 35,
+      "blue": 13,
+      "green": 36
+    }
+  },
+  "2021": {
+    "1": {
+      "red": 36,
+      "orange": 25,
+      "blue": 9,
+      "green": 39
+    },
+    "2": {
+      "red": 22,
+      "orange": 33,
+      "blue": 11,
+      "green": 33
+    },
+    "3": {
+      "red": 22,
+      "orange": 24,
+      "blue": 4,
+      "green": 47
+    },
+    "4": {
+      "red": 32,
+      "orange": 28,
+      "blue": 2,
+      "green": 31
+    },
+    "5": {
+      "red": 25,
+      "orange": 18,
+      "blue": 12,
+      "green": 30
+    },
+    "6": {
+      "red": 33,
+      "orange": 24,
+      "blue": 10,
+      "green": 29
+    },
+    "7": {
+      "red": 21,
+      "orange": 32,
+      "blue": 10,
+      "green": 43
+    },
+    "8": {
+      "red": 31,
+      "orange": 23,
+      "blue": 9,
+      "green": 40
+    },
+    "9": {
+      "red": 24,
+      "orange": 33,
+      "blue": 10,
+      "green": 30
+    },
+    "10": {
+      "red": 37,
+      "orange": 42,
+      "blue": 15,
+      "green": 27
+    },
+    "11": {
+      "red": 36,
+      "orange": 23,
+      "blue": 8,
+      "green": 34
+    },
+    "12": {
+      "red": 30,
+      "orange": 30,
+      "blue": 10,
+      "green": 31
+    }
+  },
+  "2022": {
+    "1": {
+      "red": 34,
+      "orange": 30,
+      "blue": 14,
+      "green": 31
+    },
+    "2": {
+      "red": 38,
+      "orange": 34,
+      "blue": 12,
+      "green": 23
+    },
+    "3": {
+      "red": 30,
+      "orange": 26,
+      "blue": 7,
+      "green": 41
+    },
+    "4": {
+      "red": 31,
+      "orange": 17,
+      "blue": 5,
+      "green": 16
+    },
+    "5": {
+      "red": 29,
+      "orange": 22,
+      "blue": 11,
+      "green": 23
+    },
+    "6": {
+      "red": 20,
+      "orange": 17,
+      "blue": 11,
+      "green": 49
+    },
+    "7": {
+      "red": 31,
+      "orange": 21,
+      "blue": 5,
+      "green": 36
+    },
+    "8": {
+      "red": 33,
+      "orange": 9,
+      "blue": 9,
+      "green": 31
+    },
+    "9": {
+      "red": 36,
+      "orange": 5,
+      "blue": 11,
+      "green": 33
+    },
+    "10": {
+      "red": 23,
+      "orange": 6,
+      "blue": 3,
+      "green": 29
+    },
+    "11": {
+      "red": 31,
+      "orange": 6,
+      "blue": 10,
+      "green": 28
+    },
+    "12": {
+      "red": 32,
+      "orange": 24,
+      "blue": 8,
+      "green": 35
+    }
+  },
+  "2023": {
+    "1": {
+      "red": 34,
+      "orange": 18,
+      "blue": 13,
+      "green": 42
+    },
+    "2": {
+      "red": 47,
+      "orange": 26,
+      "blue": 9,
+      "green": 36
+    },
+    "3": {
+      "red": 33,
+      "orange": 20,
+      "blue": 8,
+      "green": 38
+    },
+    "4": {
+      "red": 32,
+      "orange": 20,
+      "blue": 15,
+      "green": 34
+    },
+    "5": {
+      "red": 36,
+      "orange": 10,
+      "blue": 16,
+      "green": 44
+    },
+    "6": {
+      "red": 48,
+      "orange": 19,
+      "blue": 14,
+      "green": 50
+    },
+    "7": {
+      "red": 44,
+      "orange": 20,
+      "blue": 24,
+      "green": 35
+    },
+    "8": {
+      "red": null,
+      "orange": null,
+      "blue": null,
+      "green": null
+    },
+    "9": {
+      "red": null,
+      "orange": null,
+      "blue": null,
+      "green": null
+    },
+    "10": {
+      "red": null,
+      "orange": null,
+      "blue": null,
+      "green": null
+    },
+    "11": {
+      "red": null,
+      "orange": null,
+      "blue": null,
+      "green": null
+    },
+    "12": {
+      "red": null,
+      "orange": null,
+      "blue": null,
+      "green": null
+    }
+  },
+  "2024": {
+    "1": {
+      "red": 38,
+      "orange": 35,
+      "blue": 22,
+      "green": 46
+    },
+    "2": {
+      "red": 47,
+      "orange": 22,
+      "blue": 8,
+      "green": 62
+    },
+    "3": {
+      "red": 40,
+      "orange": 24,
+      "blue": 31,
+      "green": 62
+    },
+    "4": {
+      "red": 51,
+      "orange": 21,
+      "blue": 30,
+      "green": 42
+    },
+    "5": {
+      "red": 31,
+      "orange": 27,
+      "blue": 31,
+      "green": 58
+    },
+    "6": {
+      "red": 44,
+      "orange": 18,
+      "blue": 20,
+      "green": 45
+    },
+    "7": {
+      "red": 45,
+      "orange": 18,
+      "blue": 23,
+      "green": 49
+    },
+    "8": {
+      "red": 41,
+      "orange": 31,
+      "blue": 28,
+      "green": 44
+    },
+    "9": {
+      "red": 43,
+      "orange": 27,
+      "blue": 19,
+      "green": 39
+    },
+    "10": {
+      "red": 44,
+      "orange": 29,
+      "blue": 16,
+      "green": 48
+    },
+    "11": {
+      "red": 54,
+      "orange": 46,
+      "blue": 26,
+      "green": 44
+    },
+    "12": {
+      "red": 63,
+      "orange": 35,
+      "blue": 26,
+      "green": 53
+    }
+  },
+  "2025": {
+    "1": {
+      "red": 64,
+      "orange": 32,
+      "blue": 25,
+      "green": 60
+    },
+    "2": {
+      "red": 51,
+      "orange": 25,
+      "blue": 22,
+      "green": 61
+    },
+    "3": {
+      "red": 44,
+      "orange": 16,
+      "blue": 17,
+      "green": 57
+    },
+    "4": {
+      "red": 45,
+      "orange": 25,
+      "blue": 16,
+      "green": 43
+    },
+    "5": {
+      "red": 44,
+      "orange": 24,
+      "blue": 30,
+      "green": 44
+    },
+    "6": {
+      "red": 63,
+      "orange": 32,
+      "blue": 47,
+      "green": 54
+    },
+    "7": {
+      "red": 60,
+      "orange": 17,
+      "blue": 37,
+      "green": 76
+    },
+    "8": {
+      "red": 43,
+      "orange": 17,
+      "blue": 26,
+      "green": 51
+    },
+    "9": {
+      "red": 39,
+      "orange": 17,
+      "blue": 27,
+      "green": 34
+    },
+    "10": {
+      "red": 42,
+      "orange": 12,
+      "blue": 35,
+      "green": 52
+    },
+    "11": {
+      "red": 68,
+      "orange": 41,
+      "blue": 37,
+      "green": 38
+    },
+    "12": {
+      "red": 82,
+      "orange": 45,
+      "blue": 58,
+      "green": 33
+    }
+  },
+  "2026": {
+    "1": {
+      "red": 78,
+      "orange": 40,
+      "blue": 46,
+      "green": 53
+    },
+    "2": {
+      "red": 56,
+      "orange": 39,
+      "blue": 43,
+      "green": 69
+    },
+    "3": {
+      "red": 54,
+      "orange": 18,
+      "blue": 33,
+      "green": 39
+    },
+    "4": {
+      "red": 43,
+      "orange": 23,
+      "blue": 39,
+      "green": 52
+    },
+    "5": {
+      "red": null,
+      "orange": null,
+      "blue": null,
+      "green": null
+    },
+    "6": {
+      "red": null,
+      "orange": null,
+      "blue": null,
+      "green": null
+    },
+    "7": {
+      "red": null,
+      "orange": null,
+      "blue": null,
+      "green": null
+    },
+    "8": {
+      "red": null,
+      "orange": null,
+      "blue": null,
+      "green": null
+    },
+    "9": {
+      "red": null,
+      "orange": null,
+      "blue": null,
+      "green": null
+    },
+    "10": {
+      "red": null,
+      "orange": null,
+      "blue": null,
+      "green": null
+    },
+    "11": {
+      "red": null,
+      "orange": null,
+      "blue": null,
+      "green": null
+    },
+    "12": {
+      "red": null,
+      "orange": null,
+      "blue": null,
+      "green": null
+    }
+  }
+}
