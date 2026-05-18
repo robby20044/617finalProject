@@ -744,3 +744,10 @@ document.getElementById('predictions-note-btn').addEventListener('click', () => 
   btn.textContent = extra.hidden ? 'Read more' : 'Show less';
 });
 
+document.getElementById('ratings-note-btn').addEventListener('click', () => {
+  const extra = document.getElementById('ratings-note-extra');
+  const btn   = document.getElementById('ratings-note-btn');
+  extra.hidden = !extra.hidden;
+  btn.textContent = extra.hidden ? 'Read more' : 'Show less';
+});
+
