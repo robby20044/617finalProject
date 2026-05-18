@@ -45,7 +45,7 @@
     <section id="section-intro">
       <div class="hero-grid">
         <div class="hero-image-wrap">
-          <img class="hero-image" src="redlineTrain.png" alt="Red Line Train">
+          <img class="hero-image" src="images/redlineTrain.png" alt="Red Line Train">
         </div>
         <div class="hero-text">
           <div class="hero-tag">MBTA · Subway Data Analysis · 2020 - 2026</div>
@@ -163,7 +163,9 @@
       <div class="chart-card">
         <canvas id="ratings"></canvas>
         <div class="chart-footer">
-          <span class="chart-note">Normalized. Wider bands signify better ratings.</span>
+          <span class="chart-note">Normalized. Wider bands signify better ratings.<span id="ratings-note-extra" hidden> Reliability: The MBTA provides reliable public transportation services. Recent Trip Rating: How would you rate your most recent trip? Overall Rating: How would you rate the MBTA overall? Communication: How satisfied are you with the MBTA's communication overall?</span>
+            <button class="chart-note-btn" id="ratings-note-btn">Read more</button>
+          </span>
           <a class="chart-source" href="https://mbta-massdot.opendata.arcgis.com/" target="_blank">Source: MBTA Open Data Portal</a>
         </div>
         <div class="chart-btn-row">
